@@ -1,3 +1,7 @@
 this is my new file
 i created for devops training
+
 updated new.txt on local main 16 oct 2021
+
+cherry pick exercise 16 oct 2021
+

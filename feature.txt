@@ -3,8 +3,12 @@ this is second line
 this is third line
 
 This is github training 14 october 2021
+<<<<<<< HEAD
 
 updated feature file on local main 16 oct 2021
 
 Edit on main 16 october 2021
 
+=======
+This is github training 16 october 2021
+>>>>>>> dev
