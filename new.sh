@@ -1,6 +1,12 @@
-echo "this is my first file for shell script"
+#!/bin/bash
+for a in 1 2 3 4 5 6
+  do
+    if [ $a == 5 ]
+    then
+      sleep 10
+    fi
+    echo "iteration no $a"
+done
 
-
-edit new.sh on main 16 oct 2021
-edit new.sh ono main again 16 oct 2021
+echo "HEllo world"
 
