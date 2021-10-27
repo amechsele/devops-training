@@ -3,7 +3,7 @@ for a in 1 2 3 4 5 6
   do
     if [ $a == 5 ]
     then
-      sleep 10
+      sleep 10000
     fi
     echo "iteration no $a"
 done
