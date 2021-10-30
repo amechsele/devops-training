@@ -1,0 +1,16 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Hello Git') {
+            steps {
+                echo 'Hello Git World'
+            }
+        }
+        stage('Display Git') {
+            steps {
+                echo 'Hello Git Display'
+            }
+        }
+    }
+}
